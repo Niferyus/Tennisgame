@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\varis\\UnityProjects\\Tennis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B469A4C5-5833-E21F-C572-26C8C4BB9F86}|Assembly-CSharp.csproj|c:\\users\\varis\\unityprojects\\tennis\\assets\\script\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B469A4C5-5833-E21F-C572-26C8C4BB9F86}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B469A4C5-5833-E21F-C572-26C8C4BB9F86}|Assembly-CSharp.csproj|C:\\Users\\varis\\UnityProjects\\Tennis\\assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B469A4C5-5833-E21F-C572-26C8C4BB9F86}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B469A4C5-5833-E21F-C572-26C8C4BB9F86}|Assembly-CSharp.csproj|C:\\Users\\varis\\UnityProjects\\Tennis\\assets\\script\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B469A4C5-5833-E21F-C572-26C8C4BB9F86}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B469A4C5-5833-E21F-C572-26C8C4BB9F86}|Assembly-CSharp.csproj|C:\\Users\\varis\\UnityProjects\\Tennis\\assets\\script\\shotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B469A4C5-5833-E21F-C572-26C8C4BB9F86}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\shotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShotManager.cs",
+              "DocumentMoniker": "C:\\Users\\varis\\UnityProjects\\Tennis\\Assets\\Script\\ShotManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ShotManager.cs",
+              "ToolTip": "C:\\Users\\varis\\UnityProjects\\Tennis\\Assets\\Script\\ShotManager.cs",
+              "RelativeToolTip": "Assets\\Script\\ShotManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:03:43.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\varis\\UnityProjects\\Tennis\\Assets\\Script\\Ball.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Ball.cs",
+              "ToolTip": "C:\\Users\\varis\\UnityProjects\\Tennis\\Assets\\Script\\Ball.cs",
+              "RelativeToolTip": "Assets\\Script\\Ball.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwEYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:27:30.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bot.cs",
+              "DocumentMoniker": "C:\\Users\\varis\\UnityProjects\\Tennis\\Assets\\Script\\Bot.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Bot.cs",
+              "ToolTip": "C:\\Users\\varis\\UnityProjects\\Tennis\\Assets\\Script\\Bot.cs",
+              "RelativeToolTip": "Assets\\Script\\Bot.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwEkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:07:12.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\varis\\UnityProjects\\Tennis\\Assets\\Script\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player.cs",
+              "ToolTip": "C:\\Users\\varis\\UnityProjects\\Tennis\\Assets\\Script\\Player.cs",
+              "RelativeToolTip": "Assets\\Script\\Player.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAuwFAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:48:31.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
